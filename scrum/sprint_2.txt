@@ -1,0 +1,11 @@
+Features included in sprint 2:
+
+- Exception handling for the program
+	* Exception handling for all of the user's inputs. It includes
+		# The numbers entered when parsing through the menu
+		# The files names entered by the user
+
+	* Files I/O 
+
+- Documentation
+	- A documentation will created explaining the project

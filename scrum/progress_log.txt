@@ -1,0 +1,29 @@
+20 NOV 2022:
+* Omar Alsulaiteen: Created the java project, the FolderManager class and the Main class.
+
+21 NOV 2022:
+* Omar Alsulaiteen: Created the listFiles method.
+
+22 NOV 2022:
+* Omar Alsualiteen: Created the addFile method.
+
+23 NOV 2022:
+* Omar Alsulaiteen: Created the delteFile method.
+
+24 NOV 2022:
+* Omar Alsulaiteen: Created the searchFile method.
+
+27 NOV 2022:
+* Omar Alsulaiteen: Created the Input class to handle the user input.
+
+28 NOV 2022:
+* Omar Alsulaiteen: Created the Main class which includes the command line.
+
+29 NOV 2022:
+* Omar Alsulaiteen: Created the Documentation file.
+
+30 NOV 2022:
+* No Progress
+
+1 DEC 2022:
+* Omar Alsulaiteen: Created the flowchart to explain the project.

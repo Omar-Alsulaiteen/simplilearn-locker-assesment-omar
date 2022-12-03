@@ -1,0 +1,12 @@
+Features included in sprint 1:
+
+- GitHub repository to manage the project
+
+- Create a Java project
+	* Create a class FolderManager to manage the project. It contains
+		# addFile method to add a file to the directory.
+		# deleteFile method to delete a file from the directory.
+		# SearchFile method to search for a file
+		# listFiles method to list the files in the directory.
+
+	* Create a class Main for the command line.

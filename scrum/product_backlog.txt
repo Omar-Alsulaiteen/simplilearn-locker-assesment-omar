@@ -1,0 +1,36 @@
+LockedMe.com File Management Project
+
+- LockedMe.com is a website for LockedMe Co. used as a prototype to digitize the company.
+
+- The program supports displaying files in the directory.
+	* The files are sorted in ascending order.
+
+- The program allows users to add/delete/search for a file in the current directory.
+
+	* The user can add files to the directory.
+		# The file name must be unique. If it is not, a message will be displayed to the user.
+	
+	* The user can delete files from the directory.
+		# The program will check if the file exists before deleting it.
+
+	* The user can search for a file.
+
+	* An option to return to the previous menu (The main one).
+
+- The program is done by creating a Java project and it contains.
+	* Class FolderManager to manage the project. It contains
+		# addFile method to add a file to the directory.
+		# deleteFile method to delete a file from the directory.
+		# SearchFile method to search for a file
+		# listFiles method to list the files in the directory.
+
+	* Class Main for the command line.
+
+- Exception handling for the program
+	* Exception handling for all of the user's inputs. It includes
+		# The numbers entered when parsing through the menu
+		# The files names entered by the user
+
+	* Files I/O 
+
+- Sorting algorithms will be used to sort the files.
